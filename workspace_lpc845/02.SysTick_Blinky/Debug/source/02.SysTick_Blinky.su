@@ -1,0 +1,6 @@
+C:\Users\estudiante\Documents\GitHub\lpc 2\curso-lse\workspace_lpc845\02.SysTick_Blinky\CMSIS/core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+C:\Users\estudiante\Documents\GitHub\lpc 2\curso-lse\workspace_lpc845\02.SysTick_Blinky\CMSIS/core_cm0plus.h:1058:26:SysTick_Config	16	static
+C:\Users\estudiante\Documents\GitHub\lpc 2\curso-lse\workspace_lpc845\02.SysTick_Blinky\drivers/fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+C:\Users\estudiante\Documents\GitHub\lpc 2\curso-lse\workspace_lpc845\02.SysTick_Blinky\drivers/fsl_gpio.h:172:24:GPIO_PinRead	24	static
+../source/02.SysTick_Blinky.c:23:5:main	16	static
+../source/02.SysTick_Blinky.c:43:6:SysTick_Handler	16	static

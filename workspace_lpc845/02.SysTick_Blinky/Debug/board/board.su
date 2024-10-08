@@ -1,0 +1,2 @@
+C:\Users\estudiante\Documents\GitHub\lpc 2\curso-lse\workspace_lpc845\02.SysTick_Blinky\drivers/fsl_clock.h:580:20:CLOCK_Select	16	static
+../board/board.c:25:10:BOARD_InitDebugConsole	16	static
