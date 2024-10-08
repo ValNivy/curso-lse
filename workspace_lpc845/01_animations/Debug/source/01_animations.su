@@ -1,0 +1,4 @@
+C:\Users\estudiante\Documents\GitHub\lpc 2\curso-lse\workspace_lpc845\01_animations\drivers/fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+C:\Users\estudiante\Documents\GitHub\lpc 2\curso-lse\workspace_lpc845\01_animations\drivers/fsl_gpio.h:172:24:GPIO_PinRead	24	static
+../source/01_animations.c:23:6:delay	16	static
+../source/01_animations.c:29:5:main	16	static
