@@ -1,1 +1,5 @@
-*/Debug
+.metadata
+AzureRTOS_TAD_logs
+FreeRTOS_TAD_logs
+ZephyrRTOS_TAD_logs
+.mcuxpressoide_packages_support
